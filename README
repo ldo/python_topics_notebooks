@@ -3,7 +3,7 @@ delve into the intricacies of some features of the Python language.
 
 If you are new to Jupyter/IPython, use the command
 
-> jupyter notebook
+> jupyter-notebook
 
 in the current directory to start a Jupyter session. Jupyter’s mini
 webserver will listen on port 8888 on your local machine; connect
