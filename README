@@ -13,16 +13,17 @@ cell and press shift-enter to execute the code. The code cells in
 these notebooks are designed to be executed in sequence. Or, if you’re
 lazy, you can do “Cell → Run All” when you open a notebook.
 
-More information is available via the Help menu in the notebook browser window.
+More information is available via the Help menu in the notebook
+browser window.
 
 Some of these notebooks need packages installed beyond the ones in
 the standard Python library; this is noted where relevant at the
 start of the notebook.
 
-Copyright 2016-2019 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These
+Copyright 2016-2020 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These
 notebooks are licensed
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with
 them what you will.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2019 May 2
+2020 March 18
