@@ -20,10 +20,10 @@ Some of these notebooks need packages installed beyond the ones in
 the standard Python library; this is noted where relevant at the
 start of the notebook.
 
-Copyright 2016-2020 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These
+Copyright 2016-2023 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These
 notebooks are licensed
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with
 them what you will.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2020 March 18
+2023 June 27
