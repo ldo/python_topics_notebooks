@@ -1,29 +1,4 @@
-This repository contains [Jupyter](http://jupyter.org/) notebooks that
-delve into the intricacies of some features of the Python language.
-
-If you are new to Jupyter/IPython, use the command
-
-> jupyter-notebook
-
-in the current directory to start a Jupyter session. Jupyter’s mini
-webserver will listen on port 8888 on your local machine; connect
-using your web browser to see the available notebooks to open them and
-start interacting with them. In particular, click in a Python code
-cell and press shift-enter to execute the code. The code cells in
-these notebooks are designed to be executed in sequence. Or, if you’re
-lazy, you can do “Cell → Run All” when you open a notebook.
-
-More information is available via the Help menu in the notebook
-browser window.
-
-Some of these notebooks need packages installed beyond the ones in
-the standard Python library; this is noted where relevant at the
-start of the notebook.
-
-Copyright 2016-2023 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These
-notebooks are licensed
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with
-them what you will.
-
-Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2023 June 27
+This project is no longer being maintained on GitHub.
+Look for it at one of
+* gitlab: https://gitlab.com/ldo/python_topics_notebooks
+* bitbucket: https://bitbucket.org/ldo17/python_topics_notebooks
